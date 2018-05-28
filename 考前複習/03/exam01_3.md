@@ -12,7 +12,7 @@ eng:代表英文分數<br>
 
 ## Input Format ##
 
-txt資料<br>
+ txt資料<br>
 
 ## Output Format ##
 
